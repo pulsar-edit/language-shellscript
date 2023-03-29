@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # ShellScript language support in Atom
 ![CI Status](https://github.com/atom/language-shellscript/actions/workflows/main.yml/badge.svg)
 
